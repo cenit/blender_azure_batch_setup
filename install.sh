@@ -9,5 +9,3 @@ cp --verbose /mnt/batch/tasks/apppackages/blender_plugin_pro_lighting_skies_hdri
 
 echo "Installed pro_lighting_skies_demo with hdris resources!"
 echo
-echo Current folder:
-pwd
